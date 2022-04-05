@@ -1,2 +1,3 @@
 # xex2cold
-Add to XEX file "Cold Reset" for S-XEGS cartridge
+
+The S-XEGS cartridge is activated for XEX files which going back to DOS.
